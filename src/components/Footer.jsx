@@ -173,9 +173,9 @@ function Footer() {
                 />
 
                 <p className="text-sm text-white/50 leading-6">
-                  Detroit, Michigan
+                  Street ABC City XYZ
                   <br />
-                  United States
+                  Country ABC
                 </p>
 
               </div>
@@ -203,7 +203,7 @@ function Footer() {
                   className="text-[#E8A72B] shrink-0"
                 />
 
-                hello@centricdesignstudio.com
+                Professional Contact Form
               </a>
 
             </div>
