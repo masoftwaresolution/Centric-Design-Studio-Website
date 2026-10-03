@@ -173,9 +173,7 @@ function Footer() {
                 />
 
                 <p className="text-sm text-white/50 leading-6">
-                  Street ABC City XYZ
-                  <br />
-                  Country ABC
+                  Detroit, Michigan
                 </p>
 
               </div>
@@ -190,7 +188,7 @@ function Footer() {
                   className="text-[#E8A72B]"
                 />
 
-                +1 234 567 890
+                +1 (313) 555-0189
               </a>
 
               {/* Email */}
@@ -203,7 +201,7 @@ function Footer() {
                   className="text-[#E8A72B] shrink-0"
                 />
 
-                Professional Contact Form
+                hello@centricdesignstudio.com
               </a>
 
             </div>
